@@ -2,13 +2,12 @@
 This repositiry includes solutions for each tasks module wise like SQL Server, SSIS, SSRS and IICS and Big Picture
 ## Module 1 --SQL Server
 1. Performed  normalization
-
-a) Created tables as per normalization
-b) Insertion of  data
-c) performing joins on tables
-d) Creating different views
+  a) Created tables as per normalization
+  b) Insertion of  data
+  c) performing joins on tables
+  d) Creating different views
 using scenario
-1. Healthcare domain:
+Healthcare domain:
 Multiple patients visiting hospitals located in multiple cities, for check up and treatment, multiple
 doctors treating patients belong to specific department advising routine checkups and further drugs(medicines) for the disease identified
 
